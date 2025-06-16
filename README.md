@@ -2,4 +2,4 @@
 
 drawio (as svg)
 
-![Example](hello.drawio.svg?page=1)
+![Example](hello.drawio.svg)
