@@ -1,0 +1,3 @@
+npx json5 .vscode/extensions.json | \
+npx json-cli-tool --path=recommendations --output=newline | \
+xargs -L 1 code --install-extension
